@@ -19,11 +19,9 @@ It will start the embedded tomcat server on default port 8080
 
 
 # Technologies used
-- Spring MVC
 - RestTemplate
 - Spring Boot
 - Maven
-- Html/thymeleaf
 - Embedded Tomcat Server
 
 
