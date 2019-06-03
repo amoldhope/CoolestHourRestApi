@@ -2,7 +2,7 @@
 getTomorrowCoolestHour - This application will return tomorrows coolest hours based on the zipcode given by user.
 
 # Source of Data
-Weather data is read from http://openweathermap.org/ using API http://api.openweathermap.org/data/2.5/weather?q={citycode}&appid={apiKey}
+Weather data is read from http://openweathermap.org/ using API http://api.openweathermap.org/data/2.5/weather?q={zip code}&appid={apiKey}
 
 
 # How to run
@@ -13,7 +13,7 @@ It will start the embedded tomcat server on default port 8080
 
 # How to Use
 - Access the website using http://localhost:8080/{zipcode}
-- Enter the city zipcode
+- Enter the city zip code
 - Hit Submit button
 - It will display the coolst hour for tomorrow
 
