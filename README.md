@@ -12,7 +12,7 @@ mvn spring-boot:run
 It will start the embedded tomcat server on default port 8080
 
 # How to Use
-- Access the website using http://localhost:8080/{citycode}
+- Access the website using http://localhost:8080/{zipcode}
 - Enter the city zipcode
 - Hit Submit button
 - It will display the coolst hour for tomorrow
